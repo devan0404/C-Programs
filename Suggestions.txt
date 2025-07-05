@@ -1,0 +1,16 @@
+C --> Free Code Camp (final year projects)
+
+C++ --> Take u Forward (Striver)
+
+Java --> Kunal Kushwaha
+        Telesco (Naveen Reddy)
+
+Python --> Programming with Mosh (Mosh Hamedani)
+            Tech with Tim (ML and Data Science)
+
+For Accenture and TCS:
+    use prepinsta (website and yt channel)
+
+FOR VTU banglore and karnataka colleges:
+    c,c++, java, python, sql, interviews
+    CODERS ARCADE (youtube)
